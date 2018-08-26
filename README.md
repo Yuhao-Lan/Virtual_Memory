@@ -17,7 +17,7 @@
 
 # Example outputs:
 
-
+![alt text](Results/Results_sample-page-002.jpg)
 
 # Project Details:
 
