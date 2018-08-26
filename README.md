@@ -15,6 +15,10 @@
   
 3.To start, because we don't load frame number from BACK_STORE. There will be at least 16 TLB MISS,16 PAGE FAULT, until finishing update.
 
+# Example outputs:
+
+
+
 # Project Details:
 
 
